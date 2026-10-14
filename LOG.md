@@ -1,0 +1,12 @@
+## OCT 14, 2026
+- Created `floressudo/mini-noodle` with a Python .gitignore and MIT license
+- Installed Python, Git and the Github CLI with Homebrew
+- Logged into Github with `gh auth login`
+- installed the Cursor command-line and logged in
+- Cloned the repo to my Mac
+- Created a Python virtual environment and installed pytest
+- Checked that each tool works by printing its version
+- Installed the Python Extension in cursor
+- Learned what U means in Git: untracked, so Git isn't following the file yet
+- Set rule: no API keys or personal data in the repo
+- Created LOG.md
